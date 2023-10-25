@@ -1,12 +1,22 @@
 # Unveiling the Stars: An Exploratory Study on NASA Astronauts
 
+## Table of Contents:
+
+- [Project Description](https://github.com/DarvinciVincent/An_Exploratory_Study_on_NASA_Astronauts/blob/main/README.md#project-description-)
+- [Objective](https://github.com/DarvinciVincent/An_Exploratory_Study_on_NASA_Astronauts/blob/main/README.md#Objective-)
+- [Data Source](https://github.com/DarvinciVincent/An_Exploratory_Study_on_NASA_Astronauts/blob/main/README.md#data-source-)
+- [Dataset Descriptions](https://github.com/DarvinciVincent/An_Exploratory_Study_on_NASA_Astronauts/blob/main/README.md#dataset-description-)
+- 
 ## Project Description : 
 NASA astronaut exploration is a captivating journey into space, fueled by individual stories and collective triumphs. These astronauts, with diverse backgrounds and expertise, embody years of dedication and knowledge pursuit. Analyzing astronaut data reveals the rich tapestry of NASA's corps, and your role as a data virtuoso is pivotal. You uncover trends and patterns, shedding light on educational journeys, military service, and space achievements. Your work inspires researchers and dreamers, making astronaut stories more extraordinary and contributing to the saga of human exploration.
 
 ## Objective :
 The objective of this project is to perform data cleaning, exploration, and information extraction using Python and MySQL. The dataset includes astronaut details like names, birthdates, gender, education, military history, space missions, and more. Your goal is to uncover insights into astronauts' demographics, careers, and achievements through descriptive statistics and data visualization.
 
-## Dataset column descriptions: 
+## Data Source :
+Dataset: [NASA Astronauts](https://github.com/DarvinciVincent/An_Exploratory_Study_on_NASA_Astronauts/blob/main/nasa.csv)
+
+## Dataset descriptions: 
 **The project leverages one key table that provides valuable information for analysis:**
 1. Name: The full name of the NASA astronaut.
 2. Year: The year when the astronaut joined NASA.
@@ -28,6 +38,5 @@ The objective of this project is to perform data cleaning, exploration, and info
 18. Death_Date: The date of death of the astronaut (if applicable).
 19. Death_Mission: Information regarding the space mission associated with the astronaut's death (if applicable).
 
-Dataset: [NASA Astronauts](https://github.com/DarvinciVincent/An_Exploratory_Study_on_NASA_Astronauts/blob/main/nasa.csv)
 
 
